@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "atelier node js",
   "main": "wilder.js",
+  "dependencies": {
+    "chalk": "2.4.2"
+  },
   "scripts": {
     "start": "node wilder.js"
   },
