@@ -1,0 +1,11 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "atelier node js",
+  "main": "wilder.js",
+  "scripts": {
+    "start": "node wilder.js"
+  },
+  "author": "sbaboot",
+  "license": "ISC"
+}
